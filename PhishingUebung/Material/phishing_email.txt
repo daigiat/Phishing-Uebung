@@ -1,0 +1,84 @@
+Sehr geehrte Studierende,
+
+ 
+
+das neue Portal und der neue VPN-Server sind online.
+
+Wenn Sie zukünftig den OpenVPN nutzen wollen, müssen Sie sich neu registrieren.
+
+Sollten Sie sich schon für den „alten“ Server ohne Zwei-Faktor-Authentifizierung registriert haben, so können Sie diesen Zugang bis zum 20.12.2023 noch nutzen.
+
+Ab dem 21.12.2023 wird der Zugang ohne zweiten Faktor gesperrt.
+
+ 
+
+Nach der erneuten Registrierung wird der „alte“ Zugang automatisch gesperrt. Sie können dann nur noch über den neuen Server den OpenVPN-Zugang nutzen.
+
+ 
+
+ 
+
+Zur Registrierung:
+
+                Wie bisher benötigen Sie Ihr Geburtsdatum und das Jahr des Studienbeginns im aktuellen Studium.
+
+                ACHTUNG: Bei einem Schwerpunktswechsel gilt das Jahr des Beginns in diesem Schwerpunkt.
+
+               
+
+Wie bisher auch, dauert der Gesamtprozess der Registrierung etwa 5-6 Minuten.
+
+ 
+
+Hinweise:
+
+·         Sie müssen sich nicht registrieren. Nur wenn Sie die Dienste der Bibliothek vollumfänglich nutzen wollen.
+Es gibt auch Dienste der Bibliothek, die ohne VPN-Zugang zu nutzen sind.
+
+·         Hier können Sie die neue Konfigurationsdatei für OpenVPN herunterladen:
+https://download.htw-aalen.de/allgemein/openvpn/openvpn-s.ovpn
+Dieser Link wird Ihnen aber auch noch im Registrierungsportal nochmals angezeigt und ist in unseren Anleitungen zu finden.
+
+·         Unsere Anleitungen sind aktualisiert. Die finden Sie wie gewohnt im Download-Bereich unserer Webseite unter https://hs-aalen.de/it
+
+·         Wir haben Windows-, MACOS- mit Tunnelblick, Android- und iOS-Systeme getestet.
+
+ 
+
+ 
+
+Bei Fragen oder Problemen bitte einfach melden.
+
+ 
+
+ 
+
+Viele Grüße aus der IT
+
+M. Holz
+
+ 
+
+ 
+
+ 
+
+***********************************
+
+Michi Holz, M.Sc.
+
+Hochschule Aalen
+
+Leiter Campus-IT / CIO
+
+Beethovenstr. 1
+
+73430 Aalen
+
+ 
+
+Tel.: 07361/576-1400
+
+E-Mail: michi.holz@hs-aalen.de
+
+Web: https://www.hs-aalen.de/campus-it
